@@ -30,7 +30,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 
 |Language|belarusian|bulgarian|czech|chinese|finnish|french|german|greek|hungarian|italian|japanese|korean|polish|portuguese|romanian|russian|spanish|swedish|norwegian|turkish|ukrainian|vietnamese|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Translated mods|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{68.6 \%}}$|$\color{red}{\textsf{53.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{9.8 \%}}$|$\color{red}{\textsf{33.3 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{4.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{59.8 \%}}$|$\color{red}{\textsf{3.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{49.0 \%}}$|$\color{red}{\textsf{3.9 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{14.7 \%}}$|$\color{red}{\textsf{0.0 \%}}$|
+|Translated mods|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{68.6 \%}}$|$\color{red}{\textsf{53.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{9.8 \%}}$|$\color{red}{\textsf{33.3 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{4.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{59.8 \%}}$|$\color{red}{\textsf{3.9 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{49.0 \%}}$|$\color{red}{\textsf{3.9 \%}}$|$\color{red}{\textsf{1.0 \%}}$|$\color{red}{\textsf{0.0 \%}}$|$\color{red}{\textsf{4.9 \%}}$|$\color{red}{\textsf{14.7 \%}}$|$\color{red}{\textsf{0.0 \%}}$|
 
 ## Mods translation details
 
@@ -52,9 +52,9 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Antagarich Burning](https://github.com/vcmi-mods/ab-bad-ending-assets)|expansion|||x|x|||||||||x|||x|||||||
 |[H3Evo](https://github.com/vcmi-mods/h3Evo)|expansion|||||||||||||||||||||||
 |[Horn of the Abyss](https://github.com/vcmi-mods/hota)|expansion|||x|x||x|x||||||x|x||x|x||||x||
-|[In The Wake of Gods](https://github.com/vcmi-mods/wake-of-gods)|expansion|||x|x|||x||||||x|x||x|x||||x||
+|[In The Wake of Gods](https://github.com/vcmi-mods/wake-of-gods)|expansion|||x|x|||x||||||x|x||x|x|||x|x||
 |[Third Upgrades Mod](https://github.com/vcmi-mods/third-upgrades)|expansion||||x||||||||||||x|||||||
-|[Tides of War](https://github.com/vcmi-mods/tides-of-war)|expansion|||x|x|||x||x||||x|||x|x||||x||
+|[Tides of War](https://github.com/vcmi-mods/tides-of-war)|expansion|||x|x|||x||x||||x|||x|x|||x|x||
 |[Alternative town screens](https://github.com/vcmi-mods/alternate-townscreens)|graphical|||x||||||||||||||||||||
 |[Diverse Battlefields](https://github.com/vcmi-mods/diverse-battlefields)|graphical|||x||||||||||x||||||||||
 |[Ensrick's Portrait Pack](https://github.com/vcmi-mods/ensrick-portraits)|graphical|||x|x|||x||x||||x|||x||x|||x||
@@ -66,7 +66,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[Portraits Packs](https://github.com/vcmi-mods/portraits-packs)|graphical|||x||||||||||||||||||||
 |[Small ERA II mods](https://github.com/vcmi-mods/small-era-mods)|graphical|||x||||||||||||||||||||
 |[Towns new views](https://github.com/vcmi-mods/towns-new-views)|graphical|||x||||||||||||||||||||
-|[VCMI extras](https://github.com/vcmi-mods/vcmi-extras)|graphical|||x|x|||||||||x||||||||||
+|[VCMI extras](https://github.com/vcmi-mods/vcmi-extras)|graphical|||x|x|||||||||x|||||||x|||
 |[Vivid Dwellings](https://github.com/vcmi-mods/vivid-battlefields)|graphical|||x||||||||||||||||||||
 |[Campaign Heroes](https://github.com/vcmi-mods/campaign-heroes)|heroes|||x|x|||x||||||x|||x|||||x||
 |[Immortal cultivation heroes](https://github.com/vcmi-mods/immortal-cultivation-heroes)|heroes||||x|||||||||||||||||||
@@ -74,7 +74,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[New Old Heroes](https://github.com/vcmi-mods/new-old-heroes)|heroes|||x||||||||||x|||x|||||||
 |[Phoenix as a dream](https://github.com/vcmi-mods/phoenix-as-a-dream)|heroes|||x|x|||||||||x||||||||||
 |[Tarnum is back!](https://github.com/vcmi-mods/tarnum)|heroes|||x|x|||x||||||x||||||||||
-|[Heroes-o-pedia](https://github.com/vcmi-mods/heroes-o-pedia)|interface||||||||||||||x|||||||||
+|[Heroes-o-pedia](https://github.com/vcmi-mods/heroes-o-pedia)|interface||||||||||||||x||||||x|||
 |[High-res Menu](https://github.com/vcmi-mods/hi-rez-menu)|interface|||x||||||||||||||||||||
 |[Main Menu Themes Pack](https://github.com/vcmi-mods/h3-themes)|interface|||x||||||||||||||||||||
 |[Medusas are the best girls](https://github.com/vcmi-mods/medusa-mod)|interface|||||||||||||x|||x|||||||
@@ -87,7 +87,7 @@ This tables shows the current translation progress of VCMI. See [here](https://v
 |[HoMM3 Campaigns remade](https://github.com/vcmi-mods/h3-campaigns-remade)|maps|||||||||||||||||||||||
 |[Maps Collection](https://github.com/vcmi-mods/chinese-maps-collection)|maps||||x|||||||||||||||||||
 |[Mighty Heroes III](https://github.com/vcmi-mods/mighty-heroes-iii)|maps|||x|x|||x||x||||x|||x|||||x||
-|[Advantageous Game Options (former Cheat Collection)](https://github.com/vcmi-mods/cheat-mod)|mechanics|||x||||||||||||||||||||
+|[Advantageous Game Options (former Cheat Collection)](https://github.com/vcmi-mods/cheat-mod)|mechanics|||x|||||||||||||||||x|||
 |[Creatures' Hidden Potential](https://github.com/vcmi-mods/creatures-hidden-potential)|mechanics|||x||||||||||||||||||||
 |[Invite hero](https://github.com/vcmi-mods/tavern-invite)|mechanics|||x|x|||x||||||x||||||||||
 |[More Secondary Skills](https://github.com/vcmi-mods/more-secondary)|mechanics|||x|x|||x||||||x|||x|||||x||
